@@ -1,0 +1,9 @@
+#animate {
+    height: 250px;
+    width: 500px;
+    background: -webkit-gradient(linear, left top, right top, from(rgba(6, 212, 27, 0.5)), to(rgba(6, 185, 212, 0.5))), url(https://images.unsplash.com/photo-1581090824720-3c9f822192dd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80);
+    background: linear-gradient(to right, rgba(6, 212, 27, 0.5), rgba(6, 185, 212, 0.5)), url(https://images.unsplash.com/photo-1581090824720-3c9f822192dd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
